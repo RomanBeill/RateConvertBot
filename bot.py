@@ -2,7 +2,7 @@ import telebot
 import requests
 from telebot import types
 
-API_KEY = '7164017432:AAG4Sdz5aYCMbew8dgz8go9jL5tTXDQ9D1c'
+API_KEY = 'Enter KEY'
 NBRB_API_URL = 'https://www.nbrb.by/api/exrates/rates'
 
 bot = telebot.TeleBot(API_KEY)
